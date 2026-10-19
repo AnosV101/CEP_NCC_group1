@@ -1,11 +1,11 @@
 # CEP_NCC_group3
 
 ## Members
-**Victor Mugisho: Person1**
-**Muhammad Shayan Waqar: Person2**
-**Mattew Chang: Person3**
-**Ammar Malik: Person4**
-**Bardia Hossein: Person5**
+**Victor Mugisho: Person1**  
+**Muhammad Shayan Waqar: Person2**  
+**Mattew Chang: Person3**  
+**Ammar Malik: Person4**  
+**Bardia Hossein: Person5**  
 
 
 ## AI CODING AGENTS PROJECT
