@@ -1,7 +1,7 @@
 # Background: AI Coding Agents
 
 ## 1. What are AI coding agents?
-- AI tools that write, run, test and fix code with little human input
+- AI tools that write, run, test and fix code with little human input  
 **Different from autocomplete:** They can plan a task, edit multiple files and even run commands
 **Example:** You say "add a login page" and the agent builds and tests it, if it fails, then it tries a different approach.
 - source: [https://www.mindstudio.ai/blog/what-are-ai-coding-agents]
