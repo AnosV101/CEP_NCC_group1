@@ -1,7 +1,7 @@
 # CEP_NCC_group3
 
 ## Members
-**Victor Mugisho: Person1**  
+**Victor Mugisho: [143919256]  Person1**  
 **Muhammad Shayan Waqar: Person2**  
 **Mattew Chang: Person3**  
 **Ammar Malik: Person4**  
