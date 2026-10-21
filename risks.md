@@ -3,8 +3,8 @@ Unsafe code: AI coding agents can make a lot of mistakes and write code with man
 Dangerous Add-ons: AI might suggest using outdated, unsafe, or fake code packages that put your project at risk.  
 Private Info Leaks: If you are not careful, sending code to an AI tool can leak your private files, passwords, or company secrets.  
 ## 2. Code Quality Problems  
-Made-up Code: Often, ai invents functions that are fake or commands that don't exist which causes many programs to crash.   
-Messy Code: AI does not understand the full picture of the project. This means it can be mercy which can result in code that is repetitive or hard to clean up later  
+Made-up Code: Often, ai coding agents invents functions that are fake or commands that don't exist which causes many programs to crash.   
+Messy Code: AI does not understand the full picture of the project. This means it can be messy which can result in code that is repetitive or hard to clean up later. 
 Weak Testing: AI-written tests only check if the code works in easy cases, missing hidden errors and tricky edge cases.         
 ## 3. Responsibility & Ethical Rules  
 No Real Blame: Ai coding agents cannot be fired or sued if it breaks something. This means humans are 100% responsible for this.   
