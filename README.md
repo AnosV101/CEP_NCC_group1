@@ -2,7 +2,7 @@
 
 ## Members
 **Victor Mugisho: [143919256]  Person1**  
-**Muhammad Shayan Waqar: Person2**  
+**Muhammad Shayan Waqar: [129887253] Person2**  
 **Mattew Chang: [145837241] Person3**  
 **Ammar Malik: [111406260] Person4**  
 **Bardia Hossein: Person5**  
