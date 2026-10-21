@@ -18,7 +18,7 @@
 | **Person1** | background | `background.md` | What AI agents are, timeline, main tools, news hook |
 | **Person2** | impact | `impact.md` | Productivity + jobs, numbers, both sides |
 | **Person3** | risks | `risks.md` | Security, quality, responsibility, 2-3 incidents, 3 recommendations |
-| **Person4** | video | `video/` | Collect visuals, edit the video, keep `video/assets-needed.md` |
+| **Person4** | video | `video.md` | Collect visuals, edit the video, keep `video/assets-needed.md` |
 | **Person5** | script | `script.md` | Write script, record audio, send audio to Person 4 |
 
 > 💡 **Instructions for Researchers (Persons 1, 2, and 3):** 
