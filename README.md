@@ -26,5 +26,6 @@
 > * Do not copy-paste directly.
 > * Add every single link used to `sources.md`.
 
+YouTube video link: [https://www.youtube.com/watch?v=KmgRMoNK80c] 
 
 
